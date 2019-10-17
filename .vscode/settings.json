@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/jef/.local/share/virtualenvs/simple_api-rMqBuKCT/bin/python",
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true,
+    "html.format.enable": false
+}
